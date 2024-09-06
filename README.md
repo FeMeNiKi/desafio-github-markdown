@@ -1,5 +1,5 @@
 # Desafio-github-markdown
-![Divisor](https://i.pinimg.com/564x/70/c7/32/70c732a731bd2e2af22e1f56bc3a3ee6.jpg)
+![Divisor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxpkb3ck5TmYep9-LA47DCHXXe4GXupf7QQ&s)
 ## Etapas do desafio GitHub:
 1. Adicionar um colaborador;
 2. Fazer um clone do repositório nas respectivas máquinas locais;
