@@ -4,16 +4,35 @@
 </div>
 
 ---
-<img align="right" src="Eous wave.gif" height=200px>
 <div align="left">
 
-## Etapas do desafio GitHub:
+<h2> Criar repositório </h2>
 
-1. Adicionar um colaborador;
-2. Fazer um clone do repositório nas respectivas máquinas locais;
-3. Realizar alterações, Commits, abrir issues e pull requests;
-4. Editar o arquivo "README.md" com Markdown;
-5. Formatação de informações sobre o desafio, instruções e uma breve descrição do projeto.
-6. Testing... (Richard)
+|Tarefas|Completa|
+|-------|--------|
+|Criar um repositório|🌟|
+|Adicionar README.md|🌟|
+|Utilizar o GitHub Dev|🌟|
+|Público|🌟|
 
 </div>
+<img align="right" src="Eous wave.gif" height=300px width=300px>
+
+<h2> Colaboração </h2>
+
+|Tarefas|Completa|
+|-------|--------|
+|Adicionar um colaborador|🌟|
+|Realizar um clone do repositório|🌟|
+|Realizem alterações|🌟|
+|Commits|🌟|
+|Abrir issues|🌟|
+|Pull requests|🌟|
+
+<h2> Formatação Markdown </h2>
+
+|Tarefas|Completa|
+|-------|--------|
+|Editar um arquivo README.md|🌟|
+|Utilizar Markdown|🌟|
+|Adicionando imagens e gifs|🌟|
