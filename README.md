@@ -4,6 +4,7 @@
 </div>
 
 ---
+<img align="right" src="Eous wave.gif" height=200px>
 <div align="left">
 
 ## Etapas do desafio GitHub:
@@ -16,6 +17,3 @@
 6. Testing... (Richard)
 
 </div>
-<img align="right" src="Eous wave.gif" height=200px>
-
-
