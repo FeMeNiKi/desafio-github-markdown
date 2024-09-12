@@ -11,6 +11,6 @@
 5. Formatação de informações sobre o desafio, instruções e uma breve descrição do projeto.
 6. Testing... (Richard)
 
-
+<div align="right">
 <img src="Eous wave.gif">
 
