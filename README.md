@@ -4,7 +4,6 @@
 </div>
 
 ---
-<div align="left">
 
 <h2> Criar repositório </h2>
 
@@ -15,8 +14,6 @@
 |Utilizar o GitHub Dev|🌟|
 |Público|🌟|
 
-</div>
-<img align="right" src="Eous wave.gif" height=300px width=300px>
 
 <h2> Colaboração </h2>
 
@@ -36,3 +33,5 @@
 |Editar um arquivo README.md|🌟|
 |Utilizar Markdown|🌟|
 |Adicionando imagens e gifs|🌟|
+
+<img align="center" src="Eous wave.gif" height=300px width=300px>
