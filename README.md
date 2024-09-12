@@ -9,5 +9,9 @@
 3. Realizar alterações, Commits, abrir issues e pull requests;
 4. Editar o arquivo "README.md" com Markdown;
 5. Formatação de informações sobre o desafio, instruções e uma breve descrição do projeto.
+6. Testing... (Richard)
+
 </div>
 <img align="right" src="Eous wave.gif" height=200px>
+
+
